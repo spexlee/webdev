@@ -10,7 +10,6 @@
 	<jsp:forward page="forward_param.jsp">
 		<jsp:param name="id" value="abcdef"/>
 		<jsp:param name="pw" value="1234"/>
-		<!-- key = "id" -->
 	</jsp:forward> 
 </body>
 </html>
