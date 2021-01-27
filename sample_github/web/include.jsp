@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>안녕하세요</h1>
-	<h1>안녕하세요</h1>
+	<h2>include.jsp 페이지입니다.</h2>
+	<%@ include file = "include02.jsp" %>
+	<!-- include 지시자 사용 -->
+	<h2>include.jsp 페이지입니다.</h2>
 </body>
 </html>

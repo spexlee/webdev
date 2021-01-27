@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>안녕하세요</h1>
-	<h1>안녕하세요</h1>
+	<h2>include02.jsp 페이지 입니다.</h2>
 </body>
 </html>

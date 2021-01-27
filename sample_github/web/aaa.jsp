@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>안녕하세요</h1>
-	<h1>안녕하세요</h1>
+	<jsp:forward page="forward_param.jsp">
+		<jsp:param name="id" value="abcdef"/>
+		<jsp:param name="pw" value="1234"/>
+	</jsp:forward> 
 </body>
 </html>

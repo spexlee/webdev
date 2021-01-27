@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>안녕하세요</h1>
-	<h1>안녕하세요</h1>
+	<form action="request_send.jsp" method = "get">
+		당신의 나이는 : <input type = "text" name = "age" size = "5">
+		<input type = "submit" value = "전송">
+	</form>
 </body>
 </html>
